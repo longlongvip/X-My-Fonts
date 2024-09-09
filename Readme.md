@@ -33,7 +33,18 @@
 
 - 方舟像素字体 https://ark-pixel-font.takwolf.com/
 - 复古像素字体 https://retro-pixel-font.takwolf.com/
+- 汉字库像素字体 https://hzk-pixel-font.takwolf.com/
+- 小雅像素 https://github.com/DWNfonts/XiaoyaPixel
+- 天王星像素 https://github.com/scott0107000/Uranus-Pixel
+- 
 - 各国家和地区的「电子游戏分级制度」标识的像素化素材 https://github.com/TakWolf/pixel-art-video-game-content-rating-system
+- Pixellari https://github.com/zedseven/Pixellari
+- 
+
+## 点阵
+
+- 精品点阵字体 9x9 https://github.com/scott0107000/BoutiqueBitmap9x9
+- 精品点阵字体 7x7 https://github.com/scott0107000/BoutiqueBitmap7x7
 - 
 
 ## 设计师
@@ -56,6 +67,7 @@
 - 字加 https://zijia.zijia.com.cn/
 - 识字体 https://www.likefont.com/
 - 字魂 https://izihun.com/
+- 一些免费的中文字体 https://premake.github.io/
 - 
 
 ## 参考
